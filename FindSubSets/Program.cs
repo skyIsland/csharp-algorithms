@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * 最小生成树算法?
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

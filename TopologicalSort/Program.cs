@@ -1,4 +1,7 @@
-﻿using System;
+﻿/********************
+ *  拓扑排序
+ ********************/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

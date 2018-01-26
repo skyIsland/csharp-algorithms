@@ -1,8 +1,8 @@
-﻿using System;
+﻿/*
+ * 堆排序
+ */
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HeapSort
 {

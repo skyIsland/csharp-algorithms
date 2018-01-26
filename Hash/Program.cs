@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * 哈希(散列)算法?
+ */
+using System;
 using System.Collections.Generic;
 
 namespace Hash

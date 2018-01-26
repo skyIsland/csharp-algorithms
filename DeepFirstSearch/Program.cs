@@ -1,4 +1,7 @@
-﻿using System;
+﻿/********************
+ *  深度优先搜索算法
+ ********************/
+using System;
 using System.Collections.Generic;
 
 namespace DeepFirstSearch

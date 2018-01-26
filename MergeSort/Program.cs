@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * 归并排序
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 

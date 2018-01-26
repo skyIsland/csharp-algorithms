@@ -1,4 +1,7 @@
-﻿using System;
+﻿/********************
+ *  广度优先搜索算法
+ ********************/
+using System;
 using System.Collections.Generic;
 
 namespace BreadthFirstSearch

@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * 二分查找
+ */
+ using System;
 using System.Linq;
 
 namespace BinarySearch
